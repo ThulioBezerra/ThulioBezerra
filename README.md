@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThulioBezerra
-- 👀 I’m interesting in Programation
-- 🌱 I’m currently learning UEPB - Computação
+- 👀 I’m interesting in Programmation
+- 🌱 I’m currently learning at UEPB - Computação
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulio-alves-236b74152/)
 

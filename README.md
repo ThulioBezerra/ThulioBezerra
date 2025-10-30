@@ -2,7 +2,7 @@
 ## Sobre mim/ About Me
 Olá, me chamo Thulio Bezerra, sou graduando em ciências da computação na Universidade Estadual da Paraíba, cursando atualmente o 8º período. Desde o ínicio do ensino médio tive contato com programação e, desde então, prossigo com iniciativas e projetos que sejam revolucionários e que solucionem problemas reais do nosso mundo real. Sou o atual presidente da empresa junior de ciencias da computação Knex Consultoria Jr.
 
-Hello, i'm Thulio Bezerra and actually, i'm studying Computer Science at Universidade Estadual da Paraíba, on 7º semester. From the beggining of my high school until nowadays, i've been learning and searching for new ways to make some things better with programming and solve real problems on our society. I'm actual executive president of the junior enterprise of Computer Science Course Knex Consultoria Jr.
+Hello, i'm Thulio Bezerra and actually, i'm studying Computer Science at Universidade Estadual da Paraíba, on 8º semester. From the beggining of my high school until nowadays, i've been learning and searching for new ways to make some things better with programming and solve real problems on our society. I'm actual executive president of the junior enterprise of Computer Science Course Knex Consultoria Jr.
 
 ## Contatos/Contatcs
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulio-b-alves/))
